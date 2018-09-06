@@ -1,0 +1,5 @@
+Projede iki program bulunur. Server programý ve client programý.
+Bu programlar iki makinada çalýþtýrýlýr. Programlar çalýþtýðýnda seçim ekraný gelecektir.
+Kullanýcý Tcp Udp port no isim gibi bilgileri girdikten sonra chat ekraný gelir.
+Chat ekranýnda altta mesaj kutusu ve gönderme bulunur.
+Üstteki ekran ise tüm mesajlarý gösterir.
